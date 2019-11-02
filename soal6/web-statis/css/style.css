@@ -1,0 +1,62 @@
+.txt-arka {
+    font-weight: normal;
+    font-size: 30px;
+    color: #FF8FB2;
+}
+
+.txt-coffeShop {
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbar {
+    background: #FFFEFE;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.tombol {
+    background: #FF8FB2;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+margin-left: 500px;
+width: 100px;
+font-size: 15px;
+font-weight: bold;
+color: white;
+}
+
+.tbl {
+    background: #CECECE;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+border-radius: 20px 20px 0px 0px;
+border-color: #FF8FB2
+}
+.btn-edit {
+    color:aquamarine;
+}
+.btn-del {
+    color: red;
+}
+.moda {
+    
+position: absolute;
+width: 900px;
+height: 300px;
+left: 122px;
+top: 164px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.tbla {
+    width: 500px;
+    border-radius: 10px;
+}
+
+.sele {
+    width: 400px;
+}
+
+.custom-select{
+    width: 100px;
+}

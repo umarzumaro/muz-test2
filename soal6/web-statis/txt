@@ -1,0 +1,20 @@
+<!-- <?php
+                //echo $kwl;
+                foreach ($kwl as $x) {
+
+                    ?>
+                    <tr>
+                        <td><?php echo $x['id'] ?></td>
+                        <td><?php echo $x['nama_csr'] ?></td>
+                        <td><?php echo $x['nama_prd'] ?></td>
+                        <td><?php echo $x['category'] ?></td>
+                        <td><?php echo $x['price'] ?></td>
+                        <td>
+                            <a href="#" class="btn-edit" data-toggle="modal" data-target="#edit">edit</a> | <a href="" class="btn-del" data-toggle="modal" data-target="#delete">delete</a>
+                        </td>
+
+                    </tr>
+                <?php } ?> -->
+
+
+                
